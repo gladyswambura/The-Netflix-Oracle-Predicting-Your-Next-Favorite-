@@ -1,4 +1,4 @@
-# Predicting-Your-Next-Favorite Movie
+# Predicting-Your-Next-Favorite Movie/Show
 
 This project aims to analyze Netflix data to gain insights into the platform's available TV shows and movies. The dataset used for analysis contains information about titles, including their release year, description, genres, and ratings from various sources such as IMDb and TMDB. The project covers exploratory data analysis (EDA), feature extraction, and predictive modeling tasks.
 
