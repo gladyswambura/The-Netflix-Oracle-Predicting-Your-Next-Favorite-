@@ -16,7 +16,7 @@ To replicate the analysis and run the project:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/gladyswambura/The-Netflix-Oracle-Predicting-Your-Next-Favorite-.git
+git clone https://github.com/gladyswambura/The-Netflix-Oracle-Predicting-Your-Next-Favorite-movie.git
 ```
 2. Explore the Jupyter notebooks in the notebooks/ directory for EDA, feature extraction, and predictive modeling tasks.
 
