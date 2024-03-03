@@ -25,4 +25,4 @@ git clone https://github.com/gladyswambura/The-Netflix-Oracle-Predicting-Your-Ne
 2. Code3 camp students
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE) file for details.
